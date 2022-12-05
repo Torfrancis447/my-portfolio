@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+## Gamer's Paradise
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+an App when you can find the latest and greatest Video Games you want to play with ratings and descriptions of the game.
+
 
 ## Available Scripts
 
